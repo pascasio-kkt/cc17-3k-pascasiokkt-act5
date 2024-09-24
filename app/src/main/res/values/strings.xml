@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Artspace</string>
+    <string name="albedo_art">Albedo</string>
+    <string name="albedo_auth">Surya Raka</string>
+    <string name="albedo_art_yr">2022</string>
+    <string name="erza_art">Erza</string>
+    <string name="erza_auth">Moresense</string>
+    <string name="erza_art_yr">2017</string>
+    <string name="jujutsu">Jujutsu Kaisen</string>
+    <string name="jujutsu_auth">Nanavichan</string>
+    <string name="jujutsu_yr">2021</string>
+    <string name="jellal_art">Jellal</string>
+    <string name="jellal_auth">Mavis Wendy</string>
+    <string name="jellal_art_yr">2013</string>
+    <string name="rimuru_art">Rimuru</string>
+    <string name="rimuru_auth">Dbzandsm</string>
+    <string name="rimuru_art_yr">2022</string>
+</resources>

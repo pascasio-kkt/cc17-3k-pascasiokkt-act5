@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/my_background_color"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/albedo_art"
+        android:layout_width="match_parent"
+        android:layout_height="550.dp"
+        android:contentDescription="@string/albedo_art"
+        android:maxWidth="500.dp"
+        android:src="@drawable/albedo_art" />
+
+    <ImageView
+        android:id="@+id/erza_art"
+        android:layout_width="match_parent"
+        android:layout_height="550.dp"
+        android:contentDescription="@string/erza_art"
+        android:src="@drawable/erza_art" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="italic" />
+
+
+</LinearLayout>
